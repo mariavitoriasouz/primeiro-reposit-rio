@@ -1,11 +1,21 @@
- 	body
- 	background: #CCCCCC
+body {
+ background: #b10c8d;
+}
+
+p {
+   text-align: center;
+}
+
+em strong {
+    color: red
+}
 
 
 
- p {
- 	text-align: center;
- }
 
- 
- 
+
+
+
+
+
+
