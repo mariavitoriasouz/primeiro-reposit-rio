@@ -17,3 +17,24 @@ F = Máximo
 #000000
 
 #FFFFFF
+
+#FF0000
+
+red
+blue
+yellon
+
+RGB 0,1,2,3,...255
+
+0 - ansência 
+
+255 Máximo
+
+rgb(255,255,255)
+
+rgb(0,0,255)
+
+
+
+
+
